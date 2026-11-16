@@ -1,14 +1,11 @@
-# YIZΣRGΞ (Public Free Edition)
+# YIZΣRGΞ
 
-Official public release repository for **YIZERGE** desktop application.
+High-retention video clip editor.
 
-Website: [https://yizerge.in](https://yizerge.in)
+### Downloads
+Download the latest builds for Windows and macOS from the [Releases](https://github.com/yizerge-in/yizerge-free/releases) page.
 
-### Releases & Downloads
-All builds for Windows and macOS are available on the [Releases](https://github.com/yizerge-in/yizerge-free/releases) page.
+- **Windows**: YIZERGE-1.3.0-Setup-x64.exe
+- **macOS**: YIZERGE-1.3.0.dmg
 
-- **Windows**: Bundled NSIS installer (.exe) including FFmpeg, FFprobe, and standalone engine.
-- **macOS**: Apple Silicon & Intel DMG (.dmg) with embedded media toolchain.
-
----
-*Copyright © 2026-2027 YIZERGE. All rights reserved.*
+Website: [yizerge.in](https://yizerge.in)
